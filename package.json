@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "test skill"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anrain94/test.git"
+  },
+  "author": "anrain94",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anrain94/test/issues"
+  },
+  "homepage": "https://github.com/anrain94/test#readme",
+  "dependencies": {
+    "alexa-app": "^4.2.1"
+  }
+}
